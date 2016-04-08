@@ -1,2 +1,4 @@
 /build/
-README.txt
+.classpath
+.project
+.settings/
